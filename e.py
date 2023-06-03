@@ -1,0 +1,8 @@
+n=input("enter the password->")
+print("          ")
+print("cracking the password")
+print("          ")
+print("looking ffor password on onine")
+print("          ")
+print("the password is")
+print(n)
